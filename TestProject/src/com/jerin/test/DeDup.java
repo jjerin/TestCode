@@ -36,10 +36,6 @@ public class DeDup {
 			System.out.println("The array is empty");
 		}
 
-		// uniqueArr = deDup.deDupUsingSet();
-		// deDup.printArray(uniqueArr);
-		// deDup.printArray(deDup.randomIntegers);
-
 	}
 	
 	/*
